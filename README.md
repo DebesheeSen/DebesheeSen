@@ -31,7 +31,7 @@ I'm always seeking to expand my knowledge. Currently, I'm diving into:
 
 ## 💬 Let's Connect
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/debeshee-sen-31857527a)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debeshee-sen-31857527a/)
 - Email: [Send me an Email](mailto:debeshee05@gmail.com)
 - Resume: [Checkout my resume]()
 
