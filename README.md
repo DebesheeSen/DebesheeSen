@@ -36,5 +36,17 @@ I'm always seeking to expand my knowledge. Currently, I'm diving into:
 
 ---
 
+## 📄 Professional Documents
+
+Feel free to view or download my resume and other personal documents:
+
+- [Resume]()
+- [Portfolio]()
+
+These documents highlight my skills, experience, and projects I've worked on.
+
+---
+
+
 Feel free to explore my repositories, contribute to any project, or reach out for collaboration! Let's build something amazing together. 😊
 
