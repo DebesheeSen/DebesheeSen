@@ -10,6 +10,7 @@ I'm an aspiring Software Engineering student at Heritage Institute of Technology
 - **Frameworks**: Express, Bootstrap, Tailwind.
 - **Databases**: SQL, MongoDB.
 - **Tools & Platforms**: VSCode, Eclipse, npm, Postman, Selenium, Hopscotch, AWS.
+- **Libraries**: Numpy,Pandas, Matplotlib, Scikit Learn
 
 ---
 
@@ -17,8 +18,7 @@ I'm an aspiring Software Engineering student at Heritage Institute of Technology
 
 I'm always seeking to expand my knowledge. Currently, I'm diving into:
 
-- Cloud Computing
-- DevOps
+- Machine Learning Algorithms
 - Low Level System Design
 
 ---
