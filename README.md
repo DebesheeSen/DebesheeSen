@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Debeshee Sen!
 
-I'm an aspiring Software Engineering student at Heritage Institute of Technology, Kolkata, West Bengal with knowledge in Full-Stack Web Development and problem-solving. I enjoy solving complex problems, building scalable solutions, and continuously learning new things. Welcome to my GitHub profile!
+I'm an aspiring Software Engineering and Data Science student at Heritage Institute of Technology, Kolkata, West Bengal with knowledge in Full-Stack Web Development and problem-solving. I enjoy solving complex problems, building scalable solutions, and continuously learning new things. Welcome to my GitHub profile!
 
 ---
 
@@ -10,7 +10,7 @@ I'm an aspiring Software Engineering student at Heritage Institute of Technology
 - **Frameworks**: Express, Bootstrap, Tailwind.
 - **Databases**: SQL, MongoDB.
 - **Tools & Platforms**: VSCode, Eclipse, npm, Postman, Selenium, Hopscotch, AWS.
-- **Libraries**: Numpy,Pandas, Matplotlib, Scikit Learn
+- **Libraries**: Numpy, Pandas, Matplotlib, Scikit Learn
 
 ---
 
