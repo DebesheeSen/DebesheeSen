@@ -7,9 +7,9 @@ I'm an aspiring Software Engineering and Data Science student at Heritage Instit
 ## 🔧 Tech Stack
 
 - **Languages**: Java, C, Python, JavaScript, HTML, CSS.
-- **Frameworks**: Express, Bootstrap, Tailwind.
+- **Frameworks**: Express, Bootstrap, Tailwind, PyTorch.
 - **Databases**: SQL, MongoDB.
-- **Tools & Platforms**: VSCode, Eclipse, npm, Postman, Selenium, Hopscotch, AWS.
+- **Tools & Platforms**: VSCode, Eclipse, npm, Postman, Selenium, Hopscotch, Jupyter Notebook, Kaggle.
 - **Libraries**: Numpy, Pandas, Matplotlib, Scikit Learn
 
 ---
@@ -19,7 +19,7 @@ I'm an aspiring Software Engineering and Data Science student at Heritage Instit
 I'm always seeking to expand my knowledge. Currently, I'm diving into:
 
 - Machine Learning Algorithms
-- Low Level System Design
+- Deep Learning
 
 ---
 
