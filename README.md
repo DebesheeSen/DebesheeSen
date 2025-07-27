@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Debeshee Sen!
 
-I'm an aspiring Software Engineering and Data Science student at Heritage Institute of Technology, Kolkata, West Bengal with knowledge in Full-Stack Web Development and problem-solving. I enjoy solving complex problems, building scalable solutions, and continuously learning new things. Welcome to my GitHub profile!
+I’m an aspiring Software Engineering and Data Science student at Heritage Institute of Technology, Kolkata. My primary focus lies in Machine Learning, Deep Learning, and the mathematical foundations of ML, where I enjoy solving complex, data-driven problems. I also have experience in Full-Stack Web Development, enabling me to build scalable and practical end-to-end solutions. While constantly learning and exploring, I aim to combine strong problem-solving skills with modern technologies to create impactful projects. Welcome to my GitHub profile!
 
 ---
 
