@@ -6,52 +6,20 @@ Alongside AI, I have experience in Full-Stack Web Development, allowing me to bu
 
 ---
 
-## Tech Stack
+## Research Interests
 
-### Languages
-- Python
-- Java
-- C
-- JavaScript
-- HTML
-- CSS
-
-### Machine Learning & AI
-- PyTorch
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-
-### Web Development
-- Express.js
-- Bootstrap
-- Tailwind CSS
-
-### Databases
-- SQL
-- MongoDB
-
-### Tools
-- Git & GitHub
-- VS Code
-- Eclipse
-- Jupyter Notebook
-- Kaggle
-- Postman
-- Selenium
-- Hoppscotch
-
----
-
-## Currently Exploring
+My research interests focus on developing efficient and scalable AI systems while understanding the theoretical foundations behind modern machine learning models. I am particularly interested in:
 
 - Large Language Models (LLMs)
 - Transformer Architectures
 - Deep Learning
 - Computer Vision
-- Efficient Model Training and Optimization
-- AI Systems from Scratch
+- Natural Language Processing
+- Generative AI
+- Representation Learning
+- Efficient Training and Inference
+- AI Systems and Infrastructure
+- Mathematical Foundations of Machine Learning
 
 ---
 
