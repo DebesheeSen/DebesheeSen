@@ -1,53 +1,72 @@
-# 👋 Hello, I'm Debeshee Sen!
+# Hi, I'm Debeshee Sen
 
-I’m an aspiring Software Engineering and Data Science student at Heritage Institute of Technology, Kolkata. My primary focus lies in Machine Learning, Deep Learning, and the mathematical foundations of ML, where I enjoy solving complex, data-driven problems. I also have experience in Full-Stack Web Development, enabling me to build scalable and practical end-to-end solutions. While constantly learning and exploring, I aim to combine strong problem-solving skills with modern technologies to create impactful projects. Welcome to my GitHub profile!
+I'm a Software Engineering and Data Science undergraduate at Heritage Institute of Technology, Kolkata, with a strong interest in Machine Learning, Deep Learning, Large Language Models, and Computer Vision. I enjoy understanding the mathematics behind modern AI systems and implementing them from scratch to gain a deeper understanding of how they work.
 
----
-
-## 🔧 Tech Stack
-
-- **Languages**: Java, C, Python, JavaScript, HTML, CSS.
-- **Frameworks**: Express, Bootstrap, Tailwind, PyTorch.
-- **Databases**: SQL, MongoDB.
-- **Tools & Platforms**: VSCode, Eclipse, npm, Postman, Selenium, Hopscotch, Jupyter Notebook, Kaggle.
-- **Libraries**: Numpy, Pandas, Matplotlib, Scikit Learn
+Alongside AI, I have experience in Full-Stack Web Development, allowing me to build complete end-to-end applications. I enjoy tackling challenging problems, exploring new technologies, and developing scalable software that bridges research and practical applications.
 
 ---
 
-## 🌱 What I'm Currently Learning
+## Tech Stack
 
-I'm always seeking to expand my knowledge. Currently, I'm diving into:
+### Languages
+- Python
+- Java
+- C
+- JavaScript
+- HTML
+- CSS
 
-- Machine Learning Algorithms
+### Machine Learning & AI
+- PyTorch
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+### Web Development
+- Express.js
+- Bootstrap
+- Tailwind CSS
+
+### Databases
+- SQL
+- MongoDB
+
+### Tools
+- Git & GitHub
+- VS Code
+- Eclipse
+- Jupyter Notebook
+- Kaggle
+- Postman
+- Selenium
+- Hoppscotch
+
+---
+
+## Currently Exploring
+
+- Large Language Models (LLMs)
+- Transformer Architectures
 - Deep Learning
+- Computer Vision
+- Efficient Model Training and Optimization
+- AI Systems from Scratch
 
 ---
 
-## 📈 GitHub Stats
+## Connect With Me
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DebesheeSen&show_icons=true&theme=midnight-purple)
-
----
-
-## 💬 Let's Connect
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debeshee-sen-31857527a/)
-- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debeshee05@gmail.com)
-- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/debesheesen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debeshee-sen-31857527a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debeshee.sen.ds@gmail.com)
 
 ---
 
-## 📄 Professional Documents
+## Resume & Portfolio
 
-Feel free to view or download my resume and other personal documents:
-
-- [Resume]()
-- [Portfolio]()
-
-These documents highlight my skills, experience, and projects I've worked on.
+- **Resume:** [View Resume](https://debeshee-sen-portfolio.vercel.app/resume.pdf)
+- **Portfolio:** [View Portfolio](https://debeshee-sen-portfolio.vercel.app/)
 
 ---
 
-
-Feel free to explore my repositories, contribute to any project, or reach out for collaboration! Let's build something amazing together. 😊
-
+Thanks for visiting my profile! Feel free to explore my repositories or reach out if you'd like to discuss machine learning, deep learning, or software development.
