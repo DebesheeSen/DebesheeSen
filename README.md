@@ -6,9 +6,9 @@ Alongside AI, I have experience in Full-Stack Web Development, allowing me to bu
 
 ---
 
-## Research Interests
+## Areas of Interests
 
-My research interests focus on developing efficient and scalable AI systems while understanding the theoretical foundations behind modern machine learning models. I am particularly interested in:
+My areas of interests focus on developing efficient and scalable AI systems while understanding the theoretical foundations behind modern machine learning models. I am particularly interested in:
 
 - Large Language Models (LLMs)
 - Transformer Architectures
